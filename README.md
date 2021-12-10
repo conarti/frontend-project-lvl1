@@ -7,13 +7,13 @@
 ## Installation
 
 ```sh
-$ npm link
+npm link
 ```
 
 ## Is Even
 Run
 ```sh
-$ brain-even
+brain-even
 ```
 
 [![asciicast](https://asciinema.org/a/PAIL7iw8mS9x3s84RoxHG9wvt.svg)](https://asciinema.org/a/PAIL7iw8mS9x3s84RoxHG9wvt)
@@ -21,6 +21,13 @@ $ brain-even
 ## Calc
 Run
 ```sh
-$ brain-calc
+brain-calc
 ```
 [![asciicast](https://asciinema.org/a/c2L4baCbICMgdBQMs5CZ5C1aX.svg)](https://asciinema.org/a/c2L4baCbICMgdBQMs5CZ5C1aX)
+
+## GCD
+Run
+```sh
+brain-gcd
+```
+[![asciicast](https://asciinema.org/a/3MFrZ4z59G9X8B70tz9HkCmf7.svg)](https://asciinema.org/a/3MFrZ4z59G9X8B70tz9HkCmf7)
