@@ -1,4 +1,4 @@
-import { generateRandomInt, getRandomElement } from '../utils.js'
+import { generateRandomInt, getRandomElement } from '../utils.js';
 
 const rules = 'What is the result of the expression?';
 

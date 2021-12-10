@@ -10,7 +10,7 @@ const makeRound = () => {
 
   return {
     question,
-    correctAnswer
+    correctAnswer,
   };
 };
 
