@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-npm link
+make install
 ```
 
 ## Is Even
