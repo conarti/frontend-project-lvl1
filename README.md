@@ -38,3 +38,10 @@ Run
 brain-progression
 ```
 [![asciicast](https://asciinema.org/a/DIjoX1oqJRs0yh7dJMcoXbLI2.svg)](https://asciinema.org/a/DIjoX1oqJRs0yh7dJMcoXbLI2)
+
+## Is Prime
+Run
+```sh
+brain-prime
+```
+[![asciicast](https://asciinema.org/a/zWWMBMkychhoXWZgRZa3pVH3F.svg)](https://asciinema.org/a/zWWMBMkychhoXWZgRZa3pVH3F)
