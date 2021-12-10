@@ -14,7 +14,7 @@ const isPrime = (num) => {
   }
 
   return true;
-}
+};
 
 const makeRound = () => {
   const number = generateRandomInt(1, 10);
