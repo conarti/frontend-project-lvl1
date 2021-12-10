@@ -31,3 +31,10 @@ Run
 brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/3MFrZ4z59G9X8B70tz9HkCmf7.svg)](https://asciinema.org/a/3MFrZ4z59G9X8B70tz9HkCmf7)
+
+## Progression
+Run
+```sh
+brain-progression
+```
+[![asciicast](https://asciinema.org/a/DIjoX1oqJRs0yh7dJMcoXbLI2.svg)](https://asciinema.org/a/DIjoX1oqJRs0yh7dJMcoXbLI2)
